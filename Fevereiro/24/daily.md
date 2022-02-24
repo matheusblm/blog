@@ -24,3 +24,8 @@ BackPopulates e Backref -
 
 Backpopulates - via de mao dupla
 Backref - voce declara em apenas uma, e ele é mais maleavel aceita uma função backref() que te da mais liberdade
+
+Decorator Validates
+Utlizado para validar os campos.
+
+set_trace() do interpretador de códigos ipdb para debugar, set trace seria um brekpoint.
