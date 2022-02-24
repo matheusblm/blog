@@ -18,3 +18,9 @@ regiao_id = db.Column(db.Integer, db.ForeignKey('regioes.id'))
 Relacionamento N:N é necessario uma tabela pivo para controlar o relacionamento entre elas
 
 secondary: Em relacionamentos N:N, existe um argumento adicional que temos que passar para o relationship do SQLAlchemy fazer as relações corretamente. Esse argumento recebe a tabela intermediária da relação.
+
+
+BackPopulates e Backref - 
+
+Backpopulates - via de mao dupla
+Backref - voce declara em apenas uma, e ele é mais maleavel aceita uma função backref() que te da mais liberdade
