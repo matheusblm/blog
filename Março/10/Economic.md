@@ -67,4 +67,19 @@ the short term debt cycle typically last 5-8 years, when happend over and over.
 
 ### The long term debt cycle
 
-15:14 video
+When a person start to ear less than need to pay the debit, this generates a cycle.
+Debt repayment start to goin up.
+
+The markt start to go down, the peopple cant borrow more, and need to sell they assests to try to pay the debit.
+
+The first thing to do in this scenario.
+1. Cut the spending - Auterity
+2. Reduce debts
+3. 3
+4.
+
+Deflation the people realize the promise that they would be pay some day, not exist anymore.
+
+all of this impact several the central government, beacuse lower incomes and less emplyment mean the government collects les tax.
+
+like the interests rate its 0%, goverment need to print more money.
