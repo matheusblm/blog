@@ -27,5 +27,3 @@ What’s Amazing?
 What’s Boring?
 What’s Confusing?
 What Didn’t you believe?
-
-## Managing Tiem as a Developer
