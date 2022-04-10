@@ -115,3 +115,62 @@ typeorm migration:revert
 https://juniorb2s.medium.com/migrations-o-porque-e-como-usar-12d98c6d9269
 https://tasafo.wordpress.com/2012/10/13/controle-de-versao-em-bd/
 https://typeorm.io/migrations
+
+## TypeORM 09 - Principais métodos do Repository
+
+Create - Cria uma nova instancia da entidade
+Ex: userRepository.create({DADOS})
+
+Save - Persiste a existencia no banco de dados.
+Ex: await userRepository.save({VARIAVEL QUE FOI USADO O CREATE})
+
+Find - Busca todos os dados:
+Ex: await userRepository.find();
+
+FindOne - Retorna a primeira correspondencia baseando-se no parametro passado.
+Ex:
+
+    const getUser = async () => {
+        const user: User = await userRepository.findOne(
+            {
+                where:
+                    {
+                        email: "user1@mail.com"
+                    }
+            }
+        );
+
+    // ou
+        const user: User = await userRepository.findOne({ email });
+
+    // ou buscando pelo usuário que tem id igual a 1
+        const user: User = await userRepository.findOne(1);
+
+    }
+
+FindAndCount - Retoan todas as correspondencais da entidade e tabem o numero de correspondencias.
+Ex:
+const getUsersAndCounter = async () => {
+const users: [User[], number] = await userRepository.findAndCount();
+};
+
+Delete -
+Ex:
+const deleteUser = async () => {
+const result: DeleteResult = await userRepository.delete({ email });
+};
+
+Update - atualiza conforme os parametros passados.
+Primeiro correspondencia a ser buscada e o segundo com qual valor deve ser att.
+
+ex:
+const updateUser = async () => {
+const result: updateResult = await userRepository.update({ email }, { email: "user@gmail.com"});
+// semelhante à UPDATE user SET "email" = 'user@gmail.com' WHERE "email" = 'user1@mail.com';
+};
+
+
+https://orkhan.gitbook.io/typeorm/docs/migrations
+https://typeorm.io/
+https://typeorm.io/find-options
+https://typeorm.io/repository-api
