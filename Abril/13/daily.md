@@ -37,3 +37,7 @@ exemplo:
 adicionar ao primeiro migrations.
 `INSERT INTO "users" ("name", "email", "password", "isAdmin") VALUES (name,email,passowrd hashSync(password,10), true)
 yarn add bcrypt && @types/brcypt -D
+
+Criação de entitdade
+
+yarn typeorm entity:create -n Product
