@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "eafd181297d11ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "17524221b5f570be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Abril/17/daily.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dff5a6b0591b79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dada0fcecd42958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7376a8ae5bd47f14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3f83f8f11f90356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb3f068c7075b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fae366191ebf48b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cad6cfb10f1bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Abril/17/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17524221b5f570be",
+  "lastOpenFiles": [
+    "Abril/17/daily.md",
+    "Abril/18/daily.md",
+    "Abril/3/daily.md",
+    "Fevereiro/21/daily.md",
+    "Fevereiro/9/daily.md"
+  ]
+}
