@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abril/17/daily.md",
+            "file": "Abril/26/daily.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abril/17/daily.md",
+                "file": "Abril/26/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "17524221b5f570be",
   "lastOpenFiles": [
+    "Abril/26/daily.md",
+    "Abril/22/daily.md",
     "Abril/17/daily.md",
     "Abril/18/daily.md",
     "Abril/3/daily.md",
