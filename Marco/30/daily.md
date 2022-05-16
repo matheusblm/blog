@@ -27,3 +27,22 @@ startTransition(() => {
   // Transition: Show the results
   setSearchQuery(input);
 });
+
+--------
+
+## A article about the key element in React
+
+We need to use unique keys for the elements in react, because the react identify this key when gone render and re-render the elements in the page.
+If we dont passa a unique key, you can have a error because two elements can have the same key and they with "work together", example: u change the props of one of this two elements, than will render, but have the chance the both dont render too.
+So the basic idea is the react need the key props for localize the right element in the page.
+-----
+
+## The major difference between useCallback and UseMemo
+
+Usecallback memoize a function
+Usememo memoize a value
+
+
+
+
+https://recoiljs.org/docs/introduction/getting-started
