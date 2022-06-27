@@ -14,3 +14,5 @@ https://henrikwarne.com/2022/06/19/effective-software-testing-a-developers-guide
 https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich
 
 https://henrikwarne.com/2022/06/19/effective-software-testing-a-developers-guide/?utm_source=programmingdigest&utm_medium=email&utm_campaign=478
+
+dsa
