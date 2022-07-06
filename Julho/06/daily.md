@@ -7,10 +7,10 @@ um HOC que faça essa requisição para os dois.
 Exemplo:
 
 export funciotn withRepoData(WrappedComponent, username){
-    data = requisição
-    return (
-        <WrappedComponent repoData={ESTADO COM INFO} {...props}/>
-    )
+data = requisição
+return (
+<WrappedComponent repoData={ESTADO COM INFO} {...props}/>
+)
 }
 
 ### Error boundaries
