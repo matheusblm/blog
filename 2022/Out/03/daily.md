@@ -1,3 +1,0 @@
-### Ruby Values and Types
-
-
