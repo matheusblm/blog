@@ -39,3 +39,23 @@ Bank Customer - Insert bank card / chose operationt - Bank machine
 
 Bridging Concepts and Solutions
 
+Avaliar a complexidade do projeto
+Coupling and cohesion
+
+
+Information Hiding - 
+Nao fornecer informações desncessários ou privadas para outros modulos
+
+public - acessado por qualquer classe, mas as classes nao podem alterar como é implementado
+protected - 
+default
+private - aceesado por nenhuma classe a nao ser a propria
+
+conceptual inegrity
+
+Concordas em algums pontos para ter consistencia
+
+Especificar o software para conseguir testar em si
+
+
+Resumo do que eu entendi do primeiro modulo 
