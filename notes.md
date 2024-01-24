@@ -1,13 +1,18 @@
-Dashboard -
-Tags - Mudar para filtros, não são obrigatorios
-Campo - talves
-Valores de tags ser um multiplos select
+Projeto 1 -
 
-Alertas -
-Em cima do step 2 ser filtros nao variaveis
-Tags para filtros
-Campo para condições
-Tirar colchetes e ao clicar
-Adicionar Example,
-Menssagem obrigatoria
-Condição Alerta - Maior que - valor
+Captacção de dados de pessoas, pesquisa de dados parte elitoral.
+Tem todos os campos já
+App no celular para preencher e o site para prencher.
+Extração de relatório.
+Cotação de valores basico e a mais como relatórios
+Diminuir numero cliques.
+
+Projeto 2 -
+
+E-commerce loja vender de tudo
+Publico alvo mulheres
+Coisas para cozinha
+Coisas com afinidade para criação dos filhos
+Integração para venda com link de pagamento
+Multi tradução
+Nao ser lento
