@@ -34,8 +34,3 @@ Dimensionality reduction - compress data using fewers numbers.
 
 --- Jupyter Notebooks
 
-
---- LInear Regression With One variable
-
-
-
