@@ -50,7 +50,7 @@
 # last_three = integer_list[-3:]
 # copy_of = integer_list[:]
 
-# # concat list use extend 
+# # concat list use extend cd ..
 # integer_list.extend([1,2,3])
 # x,y = [1,2]
 
