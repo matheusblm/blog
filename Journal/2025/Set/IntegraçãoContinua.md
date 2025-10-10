@@ -8,3 +8,8 @@ Status check - Não pode ser Mergeado sem ter passado nos checks ou processo de 
 
 Ferramentes Populares - Jenkis, Github Actions, Circle CI, AWS code build, Azure Devops, Google Cloud Build, Git lab Pipelinis / CI
 
+Dentro de um workflow pode ter diversos jobs, e defino qual vai ser o evento que ele vai rodar
+
+Evento -> Filtros -> Ambiente -> Ações
+Push -> branches:master -> runs-on Ubuntu -> steps uses ou run npm run build
+
