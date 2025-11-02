@@ -139,6 +139,7 @@ After the 1st Normal
 | Xbox One | Microsoft | (800) BUY-XBOX  | 250   |
 | Play 4   | Sony      | (800) BUY-SONY  | 300   |
 | Ps Vita  | Sony      | (800)  BUY-SONY | 200   |
+|          |           |                 |       |
 
 
 | Cust Id  | Item     |
@@ -194,3 +195,34 @@ All three are used to combine rows from two tables.
 | INNER JOIN | Only matched rows | None                    | When you need data from both tables that match |
 | LEFT JOIN  | Left table        | Right side              | Show all left items even if missing matches    |
 | RIGHT JOIN | Right table       | Left side               | Show all right items even if missing matches   |
+
+
+### AWS 
+
+quem pode e o que eles podem ver
+
+Users, grupos, roles e policiticas
+
+Work in the iam account not in the main account
+
+Users groups
+
+Roles = Identity with specify permission
+
+Create a iam role the ec2 instance and assign the role for the user groups
+
+IAM user - Individual identity
+IAM role - Temporary permission
+
+Policy types
+
+### Diffrence between ORM and Writing Manual sql queries
+
+Faster development, safer, easir to main
+Manual SQL Advantages, more contron, better performante tunning for complex join
+
+
+### How does an index work
+
+An index is a data structure that helps the databse find rows faster withtou scanning the entire table
+
