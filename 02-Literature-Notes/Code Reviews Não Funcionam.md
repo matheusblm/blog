@@ -25,6 +25,7 @@
 Como fazer code reviews?
 Como identificar se um codigo vai ser facil manunteção ?
 Principals of software flow
+https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009
 ## Referência
 
 https://www.youtube.com/watch?v=xSOKFN6GhLs&list=WL&index=13
