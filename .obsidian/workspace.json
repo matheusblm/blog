@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5539a5ee687d28b3",
+        "id": "c91c60e4dee397aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2ad8767f7ef267",
+            "id": "9758dca71c806835",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Literature-Notes/Postmortem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Postmortem"
+              "title": "New tab"
             }
           }
         ]
@@ -171,12 +167,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee2ad8767f7ef267",
+  "active": "9758dca71c806835",
   "lastOpenFiles": [
+    "02-Literature-Notes/Postmortem.md",
     "02-Literature-Notes/Onboarding.md",
     "02-Literature-Notes/CQRS e Event Sourcing.md",
     "02-Literature-Notes/React Interview Prep.md",
-    "02-Literature-Notes/Postmortem.md",
     "05-Indices/SRE.md",
     "05-Indices/Monalee.md",
     "01-Permanent-Notes/Untitled.md",
